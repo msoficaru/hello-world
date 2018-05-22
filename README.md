@@ -1,2 +1,2 @@
 # hello-world
-my firt hello-world
+my first hello-world
